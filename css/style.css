@@ -1,0 +1,91 @@
+*{
+   margin: 0%;
+}
+header{
+overflow: hidden;
+}
+.logo{
+width: 20%;
+height: 100px;
+background-color: aqua;
+text-align: center;
+color:white;
+float: left;
+}
+.menu{
+width: 80%;
+height: 100px;
+background-color: aquamarine;
+text-align: center;
+color: white;
+float: right;
+}
+.bar{
+height: 50px;
+background-color: black;
+text-align: center;
+color: white;
+
+}
+.a1{
+overflow: hidden;
+}
+.a2{
+width: 20%;
+height: 400px;
+background-color: darkblue;
+float: left;
+
+}
+.a3{
+width: 60%;
+height: 400px;
+background-color: crimson;
+float: left;
+
+}
+.a4{
+width: 20%;
+height: 400px;
+background-color: blue;
+float: left;
+}
+ 
+
+.top{
+ height: 30%;
+background-color: brown;
+
+}
+.center{
+ height: 40%;
+background-color: cadetblue;
+
+}
+.bottam{
+height: 30%;
+background-color: blueviolet;
+}
+.top2{
+height: 100%; 
+width: 50%;
+background-color: chartreuse;
+float: left;
+}
+
+
+.top3{
+height: 100%;
+width: 50%;
+background-color: chocolate;
+float: right;
+}
+footer{
+background-color: black;
+height: 60px;
+color: white;
+text-align: center;
+}
+
+
+
